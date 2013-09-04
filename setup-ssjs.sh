@@ -2,7 +2,7 @@
 # Install node packages
 npm install
 
-echo -e "\n\nNOW ENTER YOUR HEROKU PASSWORD"
+##echo -e "\n\nNOW ENTER YOUR HEROKU PASSWORD"
 # Set up heroku.
 # - devcenter.heroku.com/articles/config-vars
 # - devcenter.heroku.com/articles/heroku-postgresql
