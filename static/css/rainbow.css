@@ -3,9 +3,15 @@ body{padding:0 20px;}
 	margin-top:60px;
 	background:url(../img/bg_02.jpg) center center no-repeat;
  	color: #FF0084;
-	text-shadow: 0 0 20px #0061DE;
+	
 }
 .hero-unit {padding: 85px 60px 35px;}
+.hero-unit p{
+	background:#fff;
+	filter:alpha(opacity=80);
+	opacity:0.8;
+	zoom:1;
+}
 
  /* http://support.addthis.com/customer/portal/questions/1136093-share-buttons-in-center-position */      
 div.addthis_toolbox {
