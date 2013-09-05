@@ -5,7 +5,15 @@ body{padding:0 20px;}
 	color:#fff;
 }
  /* http://support.addthis.com/customer/portal/questions/1136093-share-buttons-in-center-position */      
- div.addthis_toolbox {
-  width:300px;
-  margin: 0 auto;
- }
+div.addthis_toolbox {
+	width:300px;
+	margin: 0 auto;
+}
+
+.navbar-inverse .navbar-inner {background-image: linear-gradient(to bottom, #666666, #333333);}
+.navbar-inverse .brand {color: #fff;}
+.navbar-inverse .nav .active > a, .navbar-inverse .nav .active > a:hover, .navbar-inverse .nav .active > a:focus {
+    background-color: #666;
+    color: #DEDEDE;
+}
+.span4 h2{ color:#f60;}
